@@ -254,43 +254,48 @@
 }
 
 .person_name_feynman {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  left: 319px;
+  top: -30px;
 }
 
 .person_name_burbidge {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  top: 96px;
+  right: 125px;
 }
 
 .person_name_cannon {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  bottom: 18px;
+  right: 216px;
 }
 
 .person_name_mitchell {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  bottom: 82px;
+  left: 142px;
 }
 
 .person_name_tarter {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  top: 79px;
+  left: 159px;
 }
 
 .person__image {
-  /* max-width: 100%; */
+  max-width: 100%;
 }
 
 .person__image_size_l {
-  /* width: 140px; */
+  width: 140px;
 }
 
 .person__image_size_m {
-  /* width: 100px; */
+  width: 100px;
 }
 
 .person__image_size_s {
-  /* width: 80px; */
+  width: 80px;
 }
 
 .person__caption {
-  /* text-align: center;
+  text-align: center;
   font-size: 14px;
-  margin: 0; */
+  margin: 0;
 }
